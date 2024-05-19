@@ -1,0 +1,4 @@
+([('nacimiento',
+   '/Users/luismartinezalfaro/Desktop/python ejercicios/Adivina_tu_año_de '
+   '_nacimiento/dist/nacimiento',
+   'EXECUTABLE')],)
